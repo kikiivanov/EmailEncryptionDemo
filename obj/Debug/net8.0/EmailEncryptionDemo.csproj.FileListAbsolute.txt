@@ -1,0 +1,14 @@
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\bin\Debug\net8.0\EmailEncryptionDemo.exe
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\bin\Debug\net8.0\EmailEncryptionDemo.deps.json
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\bin\Debug\net8.0\EmailEncryptionDemo.runtimeconfig.json
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\bin\Debug\net8.0\EmailEncryptionDemo.dll
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\bin\Debug\net8.0\EmailEncryptionDemo.pdb
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.dll
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\refint\EmailEncryptionDemo.dll
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.pdb
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\EmailEncryptionDemo.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Desktop\EmailEncryptionDemo\obj\Debug\net8.0\ref\EmailEncryptionDemo.dll
